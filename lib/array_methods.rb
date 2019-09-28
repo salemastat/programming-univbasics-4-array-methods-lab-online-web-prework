@@ -2,7 +2,8 @@ def using_include(array, element)
 
 end
 
-def using_sort(array)
+def using_sort(array, element)
+  arra
 
 end
 
