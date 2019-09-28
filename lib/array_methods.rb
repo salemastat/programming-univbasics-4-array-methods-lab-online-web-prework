@@ -1,5 +1,5 @@
 using_include["array," "element"]
-using_include.include?[]
+using_include.include?("element")
 
 
 using_sort["araay", "element"]
